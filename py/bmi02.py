@@ -57,5 +57,5 @@ def main():
         if w and h:
             print('------\n小明体重'+str(w)+'kg，身高'+str(h)+'m')
             print('小明属于'+bmi(w,h)+'\n------')
-        else:print('--\n有没有搞错\n--')
+        else:print('--\n有没有搞错咩？！\n--')
 main()
